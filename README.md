@@ -47,3 +47,9 @@ Release AAB output: `app/build/outputs/bundle/release/app-release.aab`
 
 - **Android**: API 24+ (targets Android 16 / API 36)
 - **Windows**: 64-bit Windows 10+
+
+## Privacy Policy
+
+Hosted on GitHub Pages: **https://charlesmabhande.github.io/CharlzTechTV/privacy-policy.html**
+
+Use this URL in Google Play Console → App content → Privacy policy.
