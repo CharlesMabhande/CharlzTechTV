@@ -1,53 +1,49 @@
 # CharlzTechTV
-<<<<<<< HEAD
 
-Modern Android live sports streaming app powered by the **CRICFy backend**.
+Live sports streaming and TV channels for **Android** and **Windows**.
 
-## CRICFy Backend Integration
+## Apps
 
-CharlzTechTV uses the same infrastructure as CRICFy TV:
-
-| Component | Source |
-|-----------|--------|
-| **API discovery** | Firebase Remote Config (`cric_api1` / `cric_api2`) |
-| **Providers** | `{base}/cats.txt` (AES encrypted) |
-| **Live events** | `{base}/categories/live-events.txt` (AES encrypted) |
-| **Stream servers** | `{base}/channels/{slug}.txt` (AES encrypted) |
-| **M3U playlists** | Provider `catLink` URLs (encrypted or plain) |
-| **Match cards** | `live-card-png.cricify.workers.dev` |
-
-Current live API base (via Firebase): `https://cfylsvdlshv124.top`
+| Platform | Package / ID | Version |
+|----------|--------------|---------|
+| Android | `com.charlztech.charlztechtv` | 1.0.11 |
+| Windows desktop | CharlzTechTV | 1.0.11 |
 
 ## Features
 
-- Auto-discovers live, upcoming, and ended sports from CRICFy `live-events.txt`
-- Full provider catalog from CRICFy `cats.txt`
-- Multi-server playback with Previous/Next event navigation
+- Live, upcoming, and ended sports events
+- Multi-server playback with event navigation
 - HLS, DASH, ClearKey DRM, WebView embed fallback
-- Pull-to-refresh + background auto-refresh every 15 minutes
+- Regional M3U channel playlists
 - Search, favorites, Material 3 UI
+- Android TV / leanback launcher support
 
-## Build & Run
+## Build — Android
 
 ```powershell
-cd c:\Users\CHARLZTECH\AndroidStudioProjects\CharlzTechTV
-.\gradlew.bat assembleDebug
-.\gradlew.bat installDebug
+.\gradlew.bat :app:assembleDebug
+.\gradlew.bat :app:bundleRelease
 ```
 
-Open in Android Studio and run on API 24+ device/emulator.
+Release AAB output: `app/build/outputs/bundle/release/app-release.aab`
+
+## Build — Windows
+
+```powershell
+.\gradlew.bat :desktop:packageMsi
+# or full installer with bundled VLC + VC++:
+.\desktop\packaging\build-windows-installer.ps1
+```
 
 ## Architecture
 
 - **UI**: Jetpack Compose + Material 3 + MVVM
-- **Player**: Media3 ExoPlayer
+- **Player (Android)**: Media3 ExoPlayer
+- **Player (Desktop)**: VLCJ
 - **Network**: OkHttp + Firebase Remote Config + AES-256-CBC
-- **Storage**: Room (favorites)
-- **Background**: WorkManager
+- **Storage**: Room (Android favorites), JSON file (desktop favorites)
 
-## Package
+## Requirements
 
-`com.charlztech.tv`
-=======
-Sports streaming and live TV channels
->>>>>>> b71f16d3642d82b2c0269e0b00e2c51ed62d55d5
+- **Android**: API 24+ (targets Android 16 / API 36)
+- **Windows**: 64-bit Windows 10+
