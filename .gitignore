@@ -1,0 +1,44 @@
+# Local / secrets
+local.properties
+keystore/
+*.jks
+*.keystore
+keystore.properties
+
+# Gradle / build
+.gradle/
+build/
+**/build/
+out/
+*.iml
+.idea/
+*.log
+install.log
+reinstall.log
+
+# Android
+*.apk
+*.aab
+*.ap_
+*.dex
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Desktop packaging (large VLC binaries — copy locally for builds)
+desktop/packaging/resources/
+desktop/packaging/redist/
+
+# Release artifacts
+release/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Kotlin
+.kotlin/
+
+# WiX (downloaded by Gradle)
+build/wix311/

@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="Movies",30A Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+
+#EXTINF:-1 tvg-id="70sCinema.us@SD" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="Movies",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 tvg-id="80sRewind.us@SD" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="Movies",80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+
+#EXTINF:-1 tvg-id="90sThrowback.us@SD" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="Movies",90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us@SD" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="Movies",ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="AfriwoodBlockbuster.za@SD" tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="African Movies",Afriwood Blockbuster
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinemaHausa.za@SD" tvg-logo="https://i.imgur.com/uV5cHDW.png" group-title="African Movies",Cinema Hausa
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trigger.za@SD" tvg-logo="https://i.imgur.com/TrlrcWf.png" group-title="African Movies",Trigger
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrimeandEvidence.za@SD" tvg-logo="https://i.imgur.com/xwGquEb.png" group-title="African Movies",Crime & Evidence
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LOLAfrica.za@SD" tvg-logo="https://i.imgur.com/mgUk4qB.png" group-title="Comedy",LOL Africa
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/DgFy1k8.png" group-title="Documentary",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8

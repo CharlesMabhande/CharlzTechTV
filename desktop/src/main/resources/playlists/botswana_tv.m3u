@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="BotswanaTelevision.bw@SD" tvg-logo="https://flagcdn.com/w160/bw.png" group-title="Botswana",BTV 1
+#EXTVLCOPT:http-referrer=https://massmedia.co.bw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://streaming.massmedia.co.bw/memfs/e59dc4c9-7b54-456e-83ee-6f4a9007527c.m3u8
+
+#EXTINF:-1 tvg-id="BTV2.bw@SD" tvg-logo="https://flagcdn.com/w160/bw.png" group-title="Botswana",BTV 2
+#EXTVLCOPT:http-referrer=https://massmedia.co.bw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://streaming.massmedia.co.bw/memfs/2efccfa1-18a4-4c95-a86e-e37847bbf2b7.m3u8
+
+#EXTINF:-1 tvg-id="BTVNews.bw@SD" tvg-logo="https://flagcdn.com/w160/bw.png" group-title="Botswana",BTV News
+#EXTVLCOPT:http-referrer=https://massmedia.co.bw/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://streaming.massmedia.co.bw/memfs/5242e098-fc82-4ef1-9ba0-24156fcb6b26.m3u8

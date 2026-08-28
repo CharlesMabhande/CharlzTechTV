@@ -1,0 +1,27 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="ZNBCTV.zm@SD" tvg-logo="https://flagcdn.com/w160/zm.png" group-title="ZNBC",ZNBC TV 1
+#EXTVLCOPT:http-referrer=https://www.znbc.co.zm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZNBCTV2.zm@SD" tvg-logo="https://flagcdn.com/w160/zm.png" group-title="ZNBC",ZNBC TV 2
+#EXTVLCOPT:http-referrer=https://www.znbc.co.zm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZNBCTV3.zm@SD" tvg-logo="https://flagcdn.com/w160/zm.png" group-title="ZNBC",ZNBC TV 3
+#EXTVLCOPT:http-referrer=https://www.znbc.co.zm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119689/znbc3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZNBCTV4.zm@SD" tvg-logo="https://flagcdn.com/w160/zm.png" group-title="ZNBC",ZNBC TV 4
+#EXTVLCOPT:http-referrer=https://www.znbc.co.zm/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119690/znbc4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelAfrica.za@SD" tvg-logo="https://i.imgur.com/2S1gx4n.png" group-title="Entertainment",Hope Channel Africa
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Entertainment",Loveworld SAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8

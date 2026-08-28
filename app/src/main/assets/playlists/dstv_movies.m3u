@@ -1,0 +1,170 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="SuperSportSchools.za@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/DStv_logo.svg/320px-DStv_logo.svg.png" group-title="Sports",SuperSport Schools
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabctretasch.cdn.mangomolo.com/ssch/smil:ssch.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="SportsCastAfrica.za@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/DStv_logo.svg/320px-DStv_logo.svg.png" group-title="Sports",SportsCast Africa
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabcpluscdn.sportscastafrica.com/sca/smil:sca.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="SABCLehae.za@SD" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="Sports",SABC Sport
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="BRICSAfricaChannel.za@SD" tvg-logo="https://i.imgur.com/brics.png" group-title="News",BRICS Africa Channel
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabcbrtanw.cdn.mangomolo.com/br/smil:br.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="etvNewsSport.za@SD" tvg-logo="https://i.imgur.com/lXMzsNM.png" group-title="News",eTV News
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://origin2.afxp.telemedia.co.za/abr_kapang/enterepreneur/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LOLAfrica.za@SD" tvg-logo="https://i.imgur.com/mgUk4qB.png" group-title="Comedy",LOL Africa
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://origin3.afxp.telemedia.co.za/PremiumFree/lol/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AfriwoodBlockbuster.za@SD" tvg-logo="https://i.imgur.com/aESdqiB.png" group-title="Movies",Afriwood Blockbuster
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodbb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinemaHausa.za@SD" tvg-logo="https://i.imgur.com/uV5cHDW.png" group-title="Movies",Cinema Hausa
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://origin3.afxp.telemedia.co.za/PremiumFree/cinemahausa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Trigger.za@SD" tvg-logo="https://i.imgur.com/TrlrcWf.png" group-title="Movies",Trigger
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CrimeandEvidence.za@SD" tvg-logo="https://i.imgur.com/xwGquEb.png" group-title="Movies",Crime & Evidence
+#EXTVLCOPT:http-referrer=https://www.etv.co.za/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/DgFy1k8.png" group-title="Entertainment",WildEarth
+https://wildearth-xumo.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-id="HopeChannelAfrica.za@SD" tvg-logo="https://i.imgur.com/2S1gx4n.png" group-title="Entertainment",Hope Channel Africa
+https://jstre.am/live/jsl:i1onRBELcGV.m3u8
+
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Entertainment",Loveworld SAT
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/index.m3u8
+
+#EXTINF:-1 tvg-id="RedemptionTelevisionMinistry.za@SD" tvg-logo="https://i.imgur.com/63SmAby.png" group-title="Entertainment",Redemption TV
+https://live.nixsat.com/play/rtm/index.m3u8
+
+#EXTINF:-1 tvg-id="ROVTV.za@SD" tvg-logo="https://i.imgur.com/sbeuEYY.png" group-title="Entertainment",ROV TV
+#EXTVLCOPT:http-referrer=https://viewmedia7219.bozztv.com/
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" tvg-logo="https://i.imgur.com/MaLNfJG.png" group-title="Entertainment",Homebase TV
+#EXTVLCOPT:http-referrer=https://viewmedia7219.bozztv.com/
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RLWTV.za@SD" tvg-logo="https://i.imgur.com/VcwqoEF.png" group-title="Entertainment",RLW TV
+#EXTVLCOPT:http-referrer=https://webstreaming-8.viewmedia.tv/
+https://webstreaming-8.viewmedia.tv/web_119/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NuViewTV.za@SD" tvg-logo="https://i.imgur.com/dYRJ7F0.png" group-title="Entertainment",NuView TV
+#EXTVLCOPT:http-referrer=https://viewmedia7219.bozztv.com/
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_002/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LN24SA.za@SD" tvg-logo="https://i.imgur.com/Hg5YTwu.png" group-title="News",LN24 South Africa
+https://cdnstack.internetmultimediaonline.org/ln24/ln24.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BOKTV.za@SD" tvg-logo="https://i.imgur.com/mcNjuuO.png" group-title="Entertainment",BOK Radio TV
+https://livestream2.bokradio.co.za/hls/Bok5c.m3u8
+
+#EXTINF:-1 tvg-id="GNFTV.za@SD" tvg-logo="https://i.imgur.com/vCB7u0e.png" group-title="Entertainment",GNF TV
+https://oqgdrb8my4rm-hls-live.5centscdn.com/GNF02/bcea197d8b00f79cb716c6288a861000.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="30ATVClassicMovies.us@SD" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="Movies",30A Classic Movies
+https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+
+#EXTINF:-1 tvg-id="70sCinema.us@SD" tvg-logo="https://i.imgur.com/mgXeEE4.png" group-title="Movies",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 tvg-id="80sRewind.us@SD" tvg-logo="https://i.imgur.com/nkEeYfI.png" group-title="Movies",80s Rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
+
+#EXTINF:-1 tvg-id="90sThrowback.us@SD" tvg-logo="https://i.imgur.com/KoGko6M.png" group-title="Movies",90s Throwback
+https://jmp2.uk/plu-5f4d86f519358a00072b978e.m3u8
+
+#EXTINF:-1 tvg-id="ABNBibleMoviesChannel.us@SD" tvg-logo="https://i.imgur.com/NCqZdaL.png" group-title="Movies",ABN Bible Movies
+https://mediaserver.abnvideos.com/streams/abnbiblemovies.m3u8
+
+#EXTINF:-1 tvg-id="SABC1.za@SD" tvg-logo="https://i.imgur.com/G8OXWe4.png" group-title="SABC",SABC 1
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="SABC2.za@SD" tvg-logo="https://i.imgur.com/rj6i9sn.png" group-title="SABC",SABC 2
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="SABC3.za@SD" tvg-logo="https://i.imgur.com/YhdnZHH.png" group-title="SABC",SABC 3
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabctreta.cdn.mangomolo.com/sabc3/smil:sabc3.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="SABC",SABC News
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="SABC",SABC News Madlanga Commission
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabcfrta.cdn.mangomolo.com/egt/smil:egt.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="SABCNews.za@SD" tvg-logo="https://i.imgur.com/liLta8j.png" group-title="SABC",SABC News Ad Hoc Committee
+#EXTVLCOPT:http-referrer=https://player.mangomolo.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://sabcadh6ta.cdn.mangomolo.com/adhc6/smil:adhc6.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-id="1KZNTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" group-title="OpenView",1KZN TV
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CapeTownTV.za@SD" tvg-logo="https://i.imgur.com/Y8FK1Kk.png" group-title="OpenView",Cape Town TV
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SowetoTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654228e5b5.jpg" group-title="OpenView",Soweto TV
+https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TshwaneTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" group-title="OpenView",Tshwane TV
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FaithTV.za@SD" tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bcf232.jpg" group-title="OpenView",Faith TV
+https://cdn.freevisiontv.co.za/sttv/smil:faith.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SeraphimTV.za@SD" tvg-logo="https://i.imgur.com/seraphim.png" group-title="Religious",Seraphim TV
+https://restream.churchtv247.co.za/Apostle/Hggc@24/1.m3u8
+
+#EXTINF:-1 tvg-id="HomebaseTV.za@SD" tvg-logo="https://i.imgur.com/MaLNfJG.png" group-title="Entertainment",Homebase TV Alt
+https://webstreaming-2.viewmedia.tv/web_022/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LoveworldSAT.ng@SD" tvg-logo="https://i.imgur.com/Fg65XCS.png" group-title="Entertainment",Loveworld SAT Alt
+https://cdnstack.internetmultimediaonline.org/lwsat/lwsat.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="WildEarth.za@SD" tvg-logo="https://i.imgur.com/DgFy1k8.png" group-title="Entertainment",WildEarth Alt
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 tvg-id="SABC1.za@SD",SABC 1 (720p) [Geo-blocked]
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="SABC2.za@SD",SABC 2 [Geo-blocked]
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p) [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungse/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.za@SD",WildEarth (1080p)
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8

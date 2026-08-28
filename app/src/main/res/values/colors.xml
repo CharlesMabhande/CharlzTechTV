@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#FF1B8CFF</color>
+    <color name="brand_secondary">#FF00D4AA</color>
+    <color name="surface_dark">#FF070B12</color>
+    <color name="surface_card">#FF161B22</color>
+    <color name="live_red">#FFFF3B30</color>
+    <color name="upcoming_amber">#FFFFB020</color>
+</resources>

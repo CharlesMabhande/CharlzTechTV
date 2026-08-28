@@ -1,0 +1,21 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-id="NBC1.na@SD" tvg-logo="https://flagcdn.com/w160/na.png" group-title="Namibia",NBC 1
+#EXTVLCOPT:http-referrer=https://www.nbc.na/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/nbc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC2.na@SD" tvg-logo="https://flagcdn.com/w160/na.png" group-title="Namibia",NBC 2
+#EXTVLCOPT:http-referrer=https://www.nbc.na/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/nbc2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NBC3.na@SD" tvg-logo="https://flagcdn.com/w160/na.png" group-title="Namibia",NBC 3
+#EXTVLCOPT:http-referrer=https://www.nbc.na/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://hls2.nbcplus.na/hls/high_nbc3.m3u8
+
+#EXTINF:-1 tvg-id="NTV.na@SD" tvg-logo="https://flagcdn.com/w160/na.png" group-title="Namibia",NTV Namibia
+#EXTVLCOPT:http-referrer=https://www.ntv.na/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36
+https://s-pl-01.mediatool.tv/playout/ntv-abr/index.m3u8
