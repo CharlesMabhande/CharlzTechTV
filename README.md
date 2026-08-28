@@ -1,4 +1,5 @@
 # CharlzTechTV
+<<<<<<< HEAD
 
 Modern Android live sports streaming app powered by the **CRICFy backend**.
 
@@ -47,3 +48,6 @@ Open in Android Studio and run on API 24+ device/emulator.
 ## Package
 
 `com.charlztech.tv`
+=======
+Sports streaming and live TV channels
+>>>>>>> b71f16d3642d82b2c0269e0b00e2c51ed62d55d5
